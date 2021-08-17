@@ -1,3 +1,3 @@
 # issue
-Welcome to TeaKKi issue discussion
+Welcome to teakki issue discussion
 
